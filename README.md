@@ -1,6 +1,6 @@
 # Google-Data-Analytics-Capstone-Case-Study
 
-[Resume Case](https://htmlpreview.github.io/?https://github.com/Barbara-Lizama/Data-Analysis-with-R-Programming/blob/master/Case_Study.html)
+[Resume Case](https://htmlpreview.github.io/?https://github.com/Barbara-Lizama/Google-Data-Analytics-Capstone-Case-Study/blob/master/Case_Study.html)
 
 ## Tableau Dashboard
 
